@@ -1,0 +1,13 @@
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\4 - L'héritage\CourseAnimaux\CourseAnimaux\obj\Debug\netcoreapp3.1\CourseAnimaux.csprojAssemblyReference.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\4 - L'héritage\CourseAnimaux\CourseAnimaux\obj\Debug\netcoreapp3.1\CourseAnimaux.AssemblyInfoInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\4 - L'héritage\CourseAnimaux\CourseAnimaux\obj\Debug\netcoreapp3.1\CourseAnimaux.AssemblyInfo.cs
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\4 - L'héritage\CourseAnimaux\CourseAnimaux\obj\Debug\netcoreapp3.1\CourseAnimaux.csproj.CoreCompileInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\4 - L'héritage\CourseAnimaux\CourseAnimaux\bin\Debug\netcoreapp3.1\CourseAnimaux.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\4 - L'héritage\CourseAnimaux\CourseAnimaux\bin\Debug\netcoreapp3.1\CourseAnimaux.deps.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\4 - L'héritage\CourseAnimaux\CourseAnimaux\bin\Debug\netcoreapp3.1\CourseAnimaux.runtimeconfig.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\4 - L'héritage\CourseAnimaux\CourseAnimaux\bin\Debug\netcoreapp3.1\CourseAnimaux.runtimeconfig.dev.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\4 - L'héritage\CourseAnimaux\CourseAnimaux\bin\Debug\netcoreapp3.1\CourseAnimaux.dll
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\4 - L'héritage\CourseAnimaux\CourseAnimaux\bin\Debug\netcoreapp3.1\CourseAnimaux.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\4 - L'héritage\CourseAnimaux\CourseAnimaux\obj\Debug\netcoreapp3.1\CourseAnimaux.dll
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\4 - L'héritage\CourseAnimaux\CourseAnimaux\obj\Debug\netcoreapp3.1\CourseAnimaux.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\4 - L'héritage\CourseAnimaux\CourseAnimaux\obj\Debug\netcoreapp3.1\CourseAnimaux.genruntimeconfig.cache

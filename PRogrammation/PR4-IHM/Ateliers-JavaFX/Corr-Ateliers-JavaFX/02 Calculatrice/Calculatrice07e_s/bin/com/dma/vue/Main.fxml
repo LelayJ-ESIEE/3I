@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane fx:id="mainBorderPane" prefHeight="710.0" prefWidth="400.0" 
+xmlns="http://javafx.com/javafx/8" 
+xmlns:fx="http://javafx.com/fxml/1" 
+fx:controller="com.dma.controleur.MainControleur">
+   <top>
+      <MenuBar layoutX="7.0" layoutY="7.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="Format">
+            <items>
+              <MenuItem fx:id="m_standard" mnemonicParsing="false" text="Standard" />
+                  <MenuItem fx:id="m_scientifique" mnemonicParsing="false" text="Scientifique" />
+                  <MenuItem fx:id="m_quitter" mnemonicParsing="false" text="Sortie" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Aide">
+            <items>
+              <MenuItem fx:id="m_aidecalculatrice" mnemonicParsing="false" text="Aide calculatrice" />
+                  <MenuItem fx:id="m_apropos" mnemonicParsing="false" text="A propos" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+   <center>
+   </center>
+</BorderPane>

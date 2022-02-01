@@ -1,0 +1,9 @@
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\7 - Projet\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\7 - Projet\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\7 - Projet\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\7 - Projet\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.GameForm.resources
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\7 - Projet\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\7 - Projet\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\7 - Projet\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\7 - Projet\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\7 - Projet\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb

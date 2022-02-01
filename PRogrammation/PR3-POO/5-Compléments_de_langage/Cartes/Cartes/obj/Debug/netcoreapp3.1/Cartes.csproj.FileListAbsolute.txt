@@ -1,0 +1,13 @@
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Cartes\Cartes\obj\Debug\netcoreapp3.1\Cartes.csprojAssemblyReference.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Cartes\Cartes\obj\Debug\netcoreapp3.1\Cartes.AssemblyInfoInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Cartes\Cartes\obj\Debug\netcoreapp3.1\Cartes.AssemblyInfo.cs
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Cartes\Cartes\obj\Debug\netcoreapp3.1\Cartes.csproj.CoreCompileInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Cartes\Cartes\bin\Debug\netcoreapp3.1\Cartes.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Cartes\Cartes\bin\Debug\netcoreapp3.1\Cartes.deps.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Cartes\Cartes\bin\Debug\netcoreapp3.1\Cartes.runtimeconfig.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Cartes\Cartes\bin\Debug\netcoreapp3.1\Cartes.runtimeconfig.dev.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Cartes\Cartes\bin\Debug\netcoreapp3.1\Cartes.dll
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Cartes\Cartes\bin\Debug\netcoreapp3.1\Cartes.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Cartes\Cartes\obj\Debug\netcoreapp3.1\Cartes.dll
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Cartes\Cartes\obj\Debug\netcoreapp3.1\Cartes.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Cartes\Cartes\obj\Debug\netcoreapp3.1\Cartes.genruntimeconfig.cache

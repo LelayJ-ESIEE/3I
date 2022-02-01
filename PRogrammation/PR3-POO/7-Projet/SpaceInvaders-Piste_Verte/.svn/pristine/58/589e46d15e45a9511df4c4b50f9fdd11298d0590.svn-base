@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpaceInvaders.Game" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="SpaceInvaders.Game.GameState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <AssociationLine Name="gameObjects" Type="SpaceInvaders.GameObject" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="3.603" />
+        <Point X="6.609" Y="3.603" />
+        <Point X="6.609" Y="0.625" />
+        <Point X="3" Y="0.625" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="playerShip" Type="SpaceInvaders.PlayerSpaceShip">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.11" Y="0.06" Height="0.182" Width="0.876" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="pendingNewGameObjects" Type="SpaceInvaders.GameObject" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="3.625" />
+        <Point X="6.625" Y="3.625" />
+        <Point X="6.625" Y="0.594" />
+        <Point X="3" Y="0.594" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.11" Y="0.214" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="enemies" Type="SpaceInvaders.EnemyBlock" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.062" Y="3.5" />
+        <Point X="6.062" Y="3.25" />
+        <Point X="6.306" Y="3.25" />
+        <Point X="6.306" Y="1.096" />
+        <Point X="6" Y="1.096" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAiCAAAABhAAAAACAAEAAAAAAAApAkIgAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="playerShip" />
+      <Field Name="enemies" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="gameObjects" />
+      <Field Name="pendingNewGameObjects" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SpaceInvaders.GameObject" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAIAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.GameForm" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgCCAAAAgAAACAwgACACAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="game" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SpaceInvaders.Program" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.Vector2D" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAYAUAAAAAAAAAAAAAYABgAAAAAgA=</HashCode>
+      <FileName>Vector2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.Properties.Resources" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAEBAAAAAAABgADEAAAAwEAAAAAACgAAAAAAJA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.SpaceShip" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <AssociationLine Name="missile" Type="SpaceInvaders.Missile" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.562" Y="3.191" />
+        <Point X="3.562" Y="3.596" />
+        <Point X="3" Y="3.596" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.077" Y="-0.248" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAABAAAAAAAAAAAAAAAAAAAIAAAEAAAAAA=</HashCode>
+      <FileName>SpaceShip.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="missile" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SpaceInvaders.Missile" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAABAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Missile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.SimpleObject" Collapsed="true">
+    <Position X="1.5" Y="1.25" Width="1.5" />
+    <AssociationLine Name="Position" Type="SpaceInvaders.Vector2D">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.085" Y="-0.248" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABIAAAgAgAAAAAAAAAAAAABACMAAAAAAAAAA=</HashCode>
+      <FileName>SimpleObject.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Position" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SpaceInvaders.Bunker" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Bunker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.PlayerSpaceShip" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerSpaceShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.EnemyBlock" Collapsed="true">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <AssociationLine Name="speed" Type="SpaceInvaders.Vector2D" FixedFromPoint="true">
+      <Path>
+        <Point X="5.75" Y="1.441" />
+        <Point X="5.75" Y="1.75" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="-0.288" Y="0.061" Height="0.182" Width="0.886" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Position" Type="SpaceInvaders.Vector2D">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.11" Y="0.06" Height="0.182" Width="0.901" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AQwAAQACAIAIgiAgAAAAAAAAAAAAgQAAAAAAAAAAAAA=</HashCode>
+      <FileName>EnemyBlock.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="speed" />
+      <Property Name="Position" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="enemyShips" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

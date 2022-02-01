@@ -1,0 +1,14 @@
+C:\Users\jules\Documents\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\bin\Debug\POO1-Tableaux.exe.config
+C:\Users\jules\Documents\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\bin\Debug\POO1-Tableaux.exe
+C:\Users\jules\Documents\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\bin\Debug\POO1-Tableaux.pdb
+C:\Users\jules\Documents\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\obj\Debug\POO1-Tableaux.csprojAssemblyReference.cache
+C:\Users\jules\Documents\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\obj\Debug\POO1-Tableaux.csproj.CoreCompileInputs.cache
+C:\Users\jules\Documents\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\obj\Debug\POO1-Tableaux.exe
+C:\Users\jules\Documents\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\obj\Debug\POO1-Tableaux.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\bin\Debug\POO1-Tableaux.exe.config
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\bin\Debug\POO1-Tableaux.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\bin\Debug\POO1-Tableaux.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\obj\Debug\POO1-Tableaux.csprojAssemblyReference.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\obj\Debug\POO1-Tableaux.csproj.CoreCompileInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\obj\Debug\POO1-Tableaux.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\POO1-Tableaux - Old\POO1-Tableaux\obj\Debug\POO1-Tableaux.pdb

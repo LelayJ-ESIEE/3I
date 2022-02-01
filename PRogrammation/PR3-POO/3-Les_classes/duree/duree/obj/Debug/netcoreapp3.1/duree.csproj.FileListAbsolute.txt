@@ -1,0 +1,13 @@
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\duree\duree\bin\Debug\netcoreapp3.1\duree.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\duree\duree\bin\Debug\netcoreapp3.1\duree.deps.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\duree\duree\bin\Debug\netcoreapp3.1\duree.runtimeconfig.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\duree\duree\bin\Debug\netcoreapp3.1\duree.runtimeconfig.dev.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\duree\duree\bin\Debug\netcoreapp3.1\duree.dll
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\duree\duree\bin\Debug\netcoreapp3.1\duree.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\duree\duree\obj\Debug\netcoreapp3.1\duree.csprojAssemblyReference.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\duree\duree\obj\Debug\netcoreapp3.1\duree.AssemblyInfoInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\duree\duree\obj\Debug\netcoreapp3.1\duree.AssemblyInfo.cs
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\duree\duree\obj\Debug\netcoreapp3.1\duree.csproj.CoreCompileInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\duree\duree\obj\Debug\netcoreapp3.1\duree.dll
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\duree\duree\obj\Debug\netcoreapp3.1\duree.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\duree\duree\obj\Debug\netcoreapp3.1\duree.genruntimeconfig.cache

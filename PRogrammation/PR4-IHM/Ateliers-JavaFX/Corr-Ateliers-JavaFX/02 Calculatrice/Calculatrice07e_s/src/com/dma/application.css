@@ -1,0 +1,38 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root{
+	-fx-font-size: 16pt;
+	-fx-font-family: "Arial";
+	-fx-base: rgb(200, 220, 200);
+	-fx-background: rgb(255, 255, 255);
+}
+.context-menu{
+	-fx-font-size: 14pt;
+	-fx-font-family: "Arial";
+	-fx-base: rgb(180, 220, 220);
+	-fx-background: rgb(255, 255, 255);
+}
+.h-box{
+	-fx-background-color: rgb(200, 220, 200);
+	-fx-base: rgb(200, 220, 200);
+	-fx-background: rgb(200, 220, 200);
+}
+.text-field{
+	-fx-font-size: 26pt;
+	-fx-font-family: "Arial";
+	-fx-base: rgb(200, 220, 200);
+	-fx-background: rgb(255, 255, 255);
+	-fx-text-fill: rgb(0, 0, 0);
+	-fx-border-color: rgb(49, 89, 23);
+	-fx-border-radius: 5;
+	-fx-padding: 3 6 6 6;
+}
+.button{
+	-fx-font-size: 26pt;
+	-fx-font-family: "Arial";
+	-fx-base: rgb(200, 220, 200);
+	-fx-background: rgb(255, 255, 255);
+	-fx-text-fill: rgb(0, 0, 0);
+	-fx-border-color: rgb(49, 89, 23);
+	-fx-border-radius: 5;
+	-fx-padding: 3 6 6 6;
+}

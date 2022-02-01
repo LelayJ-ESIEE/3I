@@ -1,0 +1,13 @@
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\TabInt\TabInt\obj\Debug\netcoreapp3.1\TabInt.csprojAssemblyReference.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\TabInt\TabInt\obj\Debug\netcoreapp3.1\TabInt.AssemblyInfoInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\TabInt\TabInt\obj\Debug\netcoreapp3.1\TabInt.AssemblyInfo.cs
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\TabInt\TabInt\obj\Debug\netcoreapp3.1\TabInt.csproj.CoreCompileInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\TabInt\TabInt\bin\Debug\netcoreapp3.1\TabInt.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\TabInt\TabInt\bin\Debug\netcoreapp3.1\TabInt.deps.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\TabInt\TabInt\bin\Debug\netcoreapp3.1\TabInt.runtimeconfig.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\TabInt\TabInt\bin\Debug\netcoreapp3.1\TabInt.runtimeconfig.dev.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\TabInt\TabInt\bin\Debug\netcoreapp3.1\TabInt.dll
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\TabInt\TabInt\bin\Debug\netcoreapp3.1\TabInt.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\TabInt\TabInt\obj\Debug\netcoreapp3.1\TabInt.dll
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\TabInt\TabInt\obj\Debug\netcoreapp3.1\TabInt.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\TabInt\TabInt\obj\Debug\netcoreapp3.1\TabInt.genruntimeconfig.cache

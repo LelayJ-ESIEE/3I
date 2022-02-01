@@ -1,0 +1,13 @@
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\rectangle\rectangle\bin\Debug\netcoreapp3.1\rectangle.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\rectangle\rectangle\bin\Debug\netcoreapp3.1\rectangle.deps.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\rectangle\rectangle\bin\Debug\netcoreapp3.1\rectangle.runtimeconfig.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\rectangle\rectangle\bin\Debug\netcoreapp3.1\rectangle.runtimeconfig.dev.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\rectangle\rectangle\bin\Debug\netcoreapp3.1\rectangle.dll
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\rectangle\rectangle\bin\Debug\netcoreapp3.1\rectangle.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\rectangle\rectangle\obj\Debug\netcoreapp3.1\rectangle.csprojAssemblyReference.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\rectangle\rectangle\obj\Debug\netcoreapp3.1\rectangle.AssemblyInfoInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\rectangle\rectangle\obj\Debug\netcoreapp3.1\rectangle.AssemblyInfo.cs
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\rectangle\rectangle\obj\Debug\netcoreapp3.1\rectangle.csproj.CoreCompileInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\rectangle\rectangle\obj\Debug\netcoreapp3.1\rectangle.dll
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\rectangle\rectangle\obj\Debug\netcoreapp3.1\rectangle.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\rectangle\rectangle\obj\Debug\netcoreapp3.1\rectangle.genruntimeconfig.cache

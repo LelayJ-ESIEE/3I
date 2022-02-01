@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="pane" prefHeight="500.0" prefWidth="700.0" 
+xmlns="http://javafx.com/javafx/8" 
+xmlns:fx="http://javafx.com/fxml/1" 
+fx:controller="com.dma.controleur.RdvJourControleur">
+   <children>
+      <Label layoutX="57.0" layoutY="39.0" text="Cabinet DMA">
+         <font>
+            <Font name="Arial" size="48.0" />
+         </font>
+      </Label>
+      <Label fx:id="labelMedecin" layoutX="149.0" layoutY="125.0" text="...">
+         <font>
+            <Font name="Arial" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="16.0" layoutY="125.0" text="Agenda du">
+         <font>
+            <Font name="Arial" size="24.0" />
+         </font>
+      </Label>
+      <Button fx:id="boutonAccueil" layoutX="16.0" layoutY="160.0" mnemonicParsing="false" text="Accueil">
+         <font>
+            <Font name="Arial" size="18.0" />
+         </font>
+      </Button>
+      <TableView fx:id="tableViewAgenda" layoutX="16.0" layoutY="169.0" prefHeight="200.0" prefWidth="496.0" AnchorPane.topAnchor="200.0">
+        <columns>
+          <TableColumn fx:id="creneauTableColumn" prefWidth="148.0" text="Créneau horaire" />
+          <TableColumn fx:id="patientTableColumn" prefWidth="235.0" text="Patient" />
+          <TableColumn fx:id="actionTableColumn" prefWidth="66.0" text="Action" />
+        </columns>
+      </TableView>
+      <Label layoutX="132.0" layoutY="166.0" text="Le">
+         <font>
+            <Font name="Arial" size="24.0" />
+         </font></Label>
+      <Label fx:id="labelJour" layoutX="184.0" layoutY="166.0" text="...">
+         <font>
+            <Font name="Arial" size="24.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

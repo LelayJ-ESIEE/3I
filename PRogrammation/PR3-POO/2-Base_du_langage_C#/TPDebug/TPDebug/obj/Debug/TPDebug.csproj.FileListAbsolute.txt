@@ -1,0 +1,7 @@
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\TPDebug\TPDebug\bin\Debug\TPDebug.exe.config
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\TPDebug\TPDebug\bin\Debug\TPDebug.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\TPDebug\TPDebug\bin\Debug\TPDebug.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\TPDebug\TPDebug\obj\Debug\TPDebug.csprojAssemblyReference.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\TPDebug\TPDebug\obj\Debug\TPDebug.csproj.CoreCompileInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\TPDebug\TPDebug\obj\Debug\TPDebug.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\2 - Base du langage C#\TPDebug\TPDebug\obj\Debug\TPDebug.pdb

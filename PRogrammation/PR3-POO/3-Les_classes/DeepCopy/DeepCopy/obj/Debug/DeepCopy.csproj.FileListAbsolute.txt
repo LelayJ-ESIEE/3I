@@ -1,0 +1,7 @@
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\DeepCopy\DeepCopy\bin\Debug\DeepCopy.exe.config
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\DeepCopy\DeepCopy\bin\Debug\DeepCopy.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\DeepCopy\DeepCopy\bin\Debug\DeepCopy.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\DeepCopy\DeepCopy\obj\Debug\DeepCopy.csprojAssemblyReference.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\DeepCopy\DeepCopy\obj\Debug\DeepCopy.csproj.CoreCompileInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\DeepCopy\DeepCopy\obj\Debug\DeepCopy.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\3 - Les classes\DeepCopy\DeepCopy\obj\Debug\DeepCopy.pdb

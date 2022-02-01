@@ -1,0 +1,48 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.button:hover{
+	-fx-background-color: #000000,
+						  linear-gradient(#0D8ADC 0%, #88D7F3 20%, #191D22 100%),
+        				  radial-gradient(center 50% 0%, radius 100%, rgba(181,249,242,0.9), rgba(255,255,255,0));
+	-fx-text-fill: #000000;
+}
+
+.button{
+	-fx-background-color: #000000,
+						  linear-gradient(#37494A 0%, #1F2829 20%, #003333 100%),
+        				  radial-gradient(center 50% 0%, radius 100%, rgba(116,148,146,0.9), rgba(255,255,255,0));
+	-fx-text-fill: #88D7F3;
+}
+
+.root{
+	-fx-background-color: #F5FDFC;
+	-fx-background-image: url("caducee-medecin-couleur.png");
+	-fx-background-position: center center; 
+	-fx-background-size: contain;
+	-fx-background-repeat: no-repeat;
+	-fx-text-fill: #F93030
+}
+
+.textarea{
+	-fx-background-color : rgba(125,125,255, 0.2);
+}
+
+.menu-bar{
+	-fx-background-color: #000000,
+						  linear-gradient(#37494A 0%, #1F2829 20%, #003333 100%),
+        				  radial-gradient(center 50% 0%, radius 100%, rgba(116,148,146,0.9), rgba(255,255,255,0));
+}
+
+.menu-bar .label {
+    -fx-text-fill: #88D7F3;
+}
+
+.menu:hover{
+	-fx-background-color: #000000,
+						  linear-gradient(#0D8ADC 0%, #88D7F3 20%, #191D22 100%),
+						  radial-gradient(center 50% 0%, radius 100%, rgba(116,148,146,0.9), rgba(255,255,255,0));
+}
+
+.menu:hover .label{
+	-fx-text-fill: #000000;
+}

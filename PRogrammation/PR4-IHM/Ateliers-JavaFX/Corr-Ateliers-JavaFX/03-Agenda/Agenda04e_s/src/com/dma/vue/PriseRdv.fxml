@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="pane" prefHeight="500.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.dma.controleur.PriseRdvControleur">
+   <children>
+      <Label layoutX="88.0" layoutY="49.0" text="Cabinet DMA">
+         <font>
+            <Font name="Arial" size="45.0" />
+         </font>
+      </Label>
+      <Label layoutX="88.0" layoutY="122.0" prefHeight="27.0" prefWidth="411.0" text="Prendre / Annuler rendez-vous avec ">
+         <font>
+            <Font name="Arial" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="labelMedecin" layoutX="90.0" layoutY="158.0" prefHeight="27.0" prefWidth="372.0" text="...">
+         <font>
+            <Font name="Arial" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="90.0" layoutY="200.0" text="le">
+         <font>
+            <Font name="Arial" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="labelJour" layoutX="135.0" layoutY="200.0" text="...">
+         <font>
+            <Font name="Arial" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="91.0" layoutY="252.0" text="Patient: ">
+         <font>
+            <Font name="Arial" size="24.0" />
+         </font>
+      </Label>
+      <Button fx:id="buttonPrendreRdv" layoutX="109.0" layoutY="320.0" mnemonicParsing="false" text="Prendre RDV">
+         <font>
+            <Font name="Arial" size="18.0" />
+         </font>
+      </Button>
+      <Button fx:id="buttonAnnulerRdv" layoutX="300.0" layoutY="320.0" mnemonicParsing="false" text="Annuler RDV">
+         <font>
+            <Font name="Arial" size="18.0" />
+         </font>
+      </Button>
+      <Button fx:id="boutonAnnuler" layoutX="499.0" layoutY="321.0" mnemonicParsing="false" text="Annuler">
+         <font>
+            <Font name="Arial" size="18.0" />
+         </font>
+      </Button>
+      <ChoiceBox fx:id="choiceBoxPatients" layoutX="186.0" layoutY="250.0" prefHeight="31.0" prefWidth="401.0" GridPane.rowIndex="1" />
+   </children>
+</AnchorPane>

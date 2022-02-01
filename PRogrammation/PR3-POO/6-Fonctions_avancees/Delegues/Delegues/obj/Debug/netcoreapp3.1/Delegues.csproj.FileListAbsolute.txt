@@ -1,0 +1,13 @@
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Delegues\Delegues\bin\Debug\netcoreapp3.1\Delegues.exe
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Delegues\Delegues\bin\Debug\netcoreapp3.1\Delegues.deps.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Delegues\Delegues\bin\Debug\netcoreapp3.1\Delegues.runtimeconfig.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Delegues\Delegues\bin\Debug\netcoreapp3.1\Delegues.runtimeconfig.dev.json
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Delegues\Delegues\bin\Debug\netcoreapp3.1\Delegues.dll
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Delegues\Delegues\bin\Debug\netcoreapp3.1\Delegues.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Delegues\Delegues\obj\Debug\netcoreapp3.1\Delegues.csprojAssemblyReference.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Delegues\Delegues\obj\Debug\netcoreapp3.1\Delegues.AssemblyInfoInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Delegues\Delegues\obj\Debug\netcoreapp3.1\Delegues.AssemblyInfo.cs
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Delegues\Delegues\obj\Debug\netcoreapp3.1\Delegues.csproj.CoreCompileInputs.cache
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Delegues\Delegues\obj\Debug\netcoreapp3.1\Delegues.dll
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Delegues\Delegues\obj\Debug\netcoreapp3.1\Delegues.pdb
+C:\Users\jules\Desktop\Me\ESIEE\E3FI\Programmation\PR3 - POO\5 - Compléments de langage\Delegues\Delegues\obj\Debug\netcoreapp3.1\Delegues.genruntimeconfig.cache
