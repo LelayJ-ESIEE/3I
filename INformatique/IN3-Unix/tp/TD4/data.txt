@@ -1,0 +1,5 @@
+premier 3
+deuxième 10
+troisième 25
+quatrième 2
+cinquième 12

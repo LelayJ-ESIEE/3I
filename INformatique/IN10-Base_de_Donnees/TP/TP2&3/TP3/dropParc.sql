@@ -1,0 +1,8 @@
+USE parc;
+DROP TABLE Installer;
+DROP TABLE Logiciel;
+DROP TABLE Poste;
+DROP TABLE Salle;
+DROP TABLE Segment;
+DROP TABLE Types;
+DROP DATABASE parc;

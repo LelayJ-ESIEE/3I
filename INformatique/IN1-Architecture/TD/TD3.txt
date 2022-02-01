@@ -1,0 +1,247 @@
+; Squelette
+
+	AREA |.text|,CODE,READONLY
+	; Déclaration des labels (variables)
+;label	EQU	valeur
+	ENTRY
+	EXPORT	__main
+__main
+	;Instructions
+	NOP
+	AREA constants,DATA,READONLY
+	; Déclaration des constantes (ex : tableaux) lisibles :
+;label	DCB	contenu1,contenu2,[...]
+	AREA resultat,DATA,READWRITE
+	; Déclaration des espaces mémoire lisibles et écrivable (exemples : tableau de résultats) :
+;label	SPACE	taille_en_octets
+	END
+
+; Exo 1 : division euclidienne par soustractions successives
+
+	AREA |.text|,CODE,READONLY
+a	EQU	A
+b	EQU	B
+		ENTRY
+		EXPORT __main
+__main
+	LDR	R0,=a
+       	LDR	R1,=b
+	MOV	R2,#0
+cont	CMP	R0, R1
+	BLO	fin
+	ADD	R2,#1
+	SUB	R0,R1
+	B	cont
+
+	NOP
+	END
+
+; Exo 2 : Multiplication par additions successives
+
+	AREA |.text|,CODE,READONLY
+a	EQU	A
+b 	EQU	B
+	ENTRY
+	EXPORT __main
+__main
+	MOV	R0,#0
+	LDR	R1,=a
+cont	CMP	R1,#0
+	BEQ	fin
+	ADD	R0,#b
+	SUB	R1,#1
+fin
+	NOP
+	END
+
+; Exo 3 : Somme des entiers de 1 à n
+
+	AREA|.text|,CODE,READONLY
+n	EQU	N
+	ENTRY
+	EXPORT __main
+__main
+	MOV	R0,#1
+	MOV	R1,#1
+	LDR	R2,=n
+cont	CMP	R1,R2
+	BEQ	fin
+	ADD	R1,#1
+	ADD	R0,R1
+	B	cont
+fin
+	NOP
+	END
+
+; Exo 4 : Factorielle de n
+
+	AREA |.text|,CODE,READONLY
+n	EQU	N
+	ENTRY
+	EXPORT	__main
+__main
+	MOV	R0,#1
+	MOV	R1,#2
+	LDR	R2,=n
+cont	CMP	R1,R2
+	BHI	fin
+	MUL	R0,R0,R1
+	ADD	R1,#1
+	B	cont
+fin
+	NOP
+	END
+
+; Exo 5 : Maximum de 3 variables et allocation dans la variable max
+
+	AREA |.text|,CODE,READONLY
+a	EQU	A
+b	EQU	B
+c	EQU	C
+	ENTRY
+	EXPORT	__main
+__main
+	LDR	R0,=a
+	LDR	R1,=b
+	LDR	R2,=c
+	LDR	R3,=max
+	CMP	R0,R1
+	BGS	agb
+	CMP	R1,R2
+	BGS	bgac
+	B	cgab
+agb	CMP	R0,R2
+	BGS	agbc
+cgab	STRB	R2,[R3]
+	B	fin
+bgac	STRB	R1,[R3]
+	B	fin
+bgac	STRB	R1,[R3]
+fin	
+	NOP
+	AREA resultat,DATA,READWRITE
+max	SPACE	1
+	END
+
+; Exo 6 : Minimum de 3 variables et allocation dans la variable min
+
+	AREA |.text|,CODE,READONLY
+a	EQU	A
+b	EQU	B
+c	EQU	C
+	ENTRY
+	EXPORT	__main
+__main
+	LDR	R0,=a
+	LDR	R1,=b
+	LDR	R2,=c
+	LDR	R3,=min
+	CMP	R0,R1
+	BLS	aLb
+	CMP	R1,R2
+	BLS	blac
+	B	clab
+alb	CMP	R0,R2
+	BLS	albc
+clab	STRB	R2,[R3]
+	B	fin
+blac	STRB	R1,[R3]
+	B	fin
+blac	STRB	R1,[R3]
+fin	
+	NOP
+	AREA resultat,DATA,READWRITE
+min	SPACE	1
+	END
+
+; Exo 7 : Maximum d'un tableau de n éléments et allocation dans la variable max
+
+	AREA |.text|,CODE,READONLY
+n	EQU	N
+	ENTRY
+	EXPORT	__main
+__main
+	MOV	R0,#0
+	MOV	R2,#0
+	LDR	R3,=n
+	LDR	R4,=tab_r
+cont	CMP	R2,R3
+	BEQ	fin
+	LDR	R1,[R4,R2]
+	ADD	R2,#1
+	CMP	R0,R1
+	BGS	cont
+	LDR	R0,R1
+	B	cont
+fin	LDR	R1,=max
+	STRB	R0,[R1]
+	NOP
+	AREA constants,DATA,READONLY
+tab_r	DCB	contenu1,contenu2,[...]
+	AREA resultat,DATA,READWRITE
+max	SPACE	1
+	END
+
+; Exo 8 : Minimum d'un tableau de n éléments et allocation dans la variable min
+
+	AREA |.text|,CODE,READONLY
+n	EQU	N
+	ENTRY
+	EXPORT	__main
+__main
+	MOV	R0,#255
+	MOV	R2,#0
+	LDR	R3,=n
+	LDR	R4,=tab_r
+cont	CMP	R2,R3
+	BEQ	fin
+	LDR	R1,[R4,R2]
+	ADD	R2,#1
+	CMP	R0,R1
+	BLS	cont
+	LDR	R0,R1
+	B	cont
+fin	LDR	R1,=min
+	STRB	R0,[R1]
+	NOP
+	AREA constants,DATA,READONLY
+tab_r	DCB	contenu1,contenu2,[...]
+	AREA resultat,DATA,READWRITE
+min	SPACE	1
+	END
+
+; Exo 9 : Exos 7 et 8 combinés
+
+	AREA |.text|,CODE,READONLY
+n	EQU	N
+	ENTRY
+	EXPORT	__main
+__main
+	MOV	R0,#0
+	MOV	R1,#255
+	MOV	R3,#0
+	LDR	R4,=n
+	LDR	R5,=tab_r
+cont	CMP	R3,R4
+	BEQ	fin
+	LDR	R2,[R5,R3]
+	ADD	R3,#1
+	CMP	R0,R2
+	BLO	nmax
+	CMP	R1,R2
+	BHI	nmin
+nmax	LDR	R0,R2
+	B	cont
+nmin	LDR	R1,R2
+	B	cont
+fin	LDR	R2,=max
+	STRB	R0,[R2]
+	LDR	R2,=min
+	STRB	R1,[R2]
+	NOP
+	AREA constants,DATA,READONLY
+tab_r	DCB	contenu1,contenu2,[...]
+	AREA resultat,DATA,READWRITE
+max	SPACE	1
+min	SPACE	1
+	END

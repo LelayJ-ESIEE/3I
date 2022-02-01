@@ -1,0 +1,1 @@
+SOURCE /home/lelayj/Documents/IN10-BDD/TP1/creParc.sql;
